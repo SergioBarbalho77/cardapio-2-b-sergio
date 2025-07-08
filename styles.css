@@ -65,7 +65,7 @@ section h2 {
 
 .item {
     text-align: center;
-    background-color: #000000;
+    background-color: #ffffff;
     padding: 1rem;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -85,7 +85,7 @@ section h2 {
 footer {
     text-align: center;
     padding: 1rem 0;
-    background-color: #000000;
+    background-color: #ffffff;
     color: white;
     margin-top: 2rem;
 }
