@@ -65,10 +65,10 @@ section h2 {
 
 .item {
     text-align: center;
-    background-color: #000000;
+    background-color: #ffffff;
     padding: 1rem;
     border-radius: 10px;
-    box-shadow: 0 2px 4px rgb(235, 7, 7);
+    box-shadow: 0 2px 4px rgb(0, 0, 0);
     color: white;
 }
 
